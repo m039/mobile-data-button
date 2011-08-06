@@ -1,0 +1,2 @@
+* License
+mobile-data-button is licensed under the terms of the Apache 2.0 license as listed in the LICENSE file.

@@ -1,0 +1,7 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="72dp"
+    android:minHeight="72dp"
+    android:padding="4dp"
+    android:updatePeriodMillis="60000"
+    android:initialLayout="@layout/md_button">
+</appwidget-provider>
