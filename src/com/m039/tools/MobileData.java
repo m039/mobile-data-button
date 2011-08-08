@@ -30,7 +30,7 @@ public class MobileData {
     }
 
     /**
-     * Turn on mobile data.
+     * Turn off mobile data.
      *
      * @param context a reference to Context or Activity
      */
@@ -39,7 +39,7 @@ public class MobileData {
     }
 
     /**
-     * Turn off mobile data.
+     * Turn on mobile data.
      *
      * @param context a reference to Context or Activity
      */
